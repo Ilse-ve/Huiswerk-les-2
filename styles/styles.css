@@ -7,6 +7,7 @@ Table of Contents:
         3.2 Testimonial
         3.3 Support
         3.4 Faq
+        grijs #899CA0 Groen #1C2B32
         3.5 Footer
 ////////////////////////////////////////////////////////////////////////*/
 
@@ -15,7 +16,9 @@ Table of Contents:
 /*////////////////////////
     1. Global Styles
 ////////////////////////*/
-
+.body {
+    font-family: Georgia, 'new times roman' sans-serif;
+}
 
 
 /*////////////////////////
