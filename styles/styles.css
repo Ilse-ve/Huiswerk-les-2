@@ -36,8 +36,13 @@ body {
 .Header-pagina {
     width: 1000px;
     text-align: center;
+    background-image: url("/assets/images/mountains.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 1000px;
+    height: 250px;
+    border: 2px;
 }
-
 
 /*///////////// 3.2 Testimonial /////////////*/
 
